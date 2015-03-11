@@ -34,6 +34,8 @@ Envoyer les fichiers sur le serveur :
 	git push origin gh-pages
 
 * [Using GitHub Pages To Host Your Website](http://blog.teamtreehouse.com/using-github-pages-to-host-your-website)
+* [Publiez votre site web en 10 minutes](http://www.lewagon.org/blog/publier-site-github-pages?utm_content=buffer600eb&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+
 
 ## Documentation
 
